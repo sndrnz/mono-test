@@ -1,5 +1,11 @@
 # two
 
+## 3.0.0
+
+### Minor Changes
+
+- 5dbb3a3: asdfasdfasdf
+
 ## 2.1.0
 
 ### Minor Changes

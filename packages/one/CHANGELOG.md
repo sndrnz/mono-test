@@ -1,5 +1,15 @@
 # one
 
+## 3.0.0
+
+### Major Changes
+
+- 9114abd: asdfasdasdfadfasdfasdfasdfasdfasdf
+
+### Minor Changes
+
+- 5dbb3a3: asdfasdfasdf
+
 ## 2.1.0
 
 ### Minor Changes
