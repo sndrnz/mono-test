@@ -1,5 +1,15 @@
 # one
 
+## 3.1.0
+
+### Minor Changes
+
+- 678bc5e: eins
+
+  zwei
+
+- b08ab3b: drei
+
 ## 3.0.1
 
 ## 3.0.0
