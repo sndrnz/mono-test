@@ -1,5 +1,0 @@
----
-"two": minor
----
-
-drei
