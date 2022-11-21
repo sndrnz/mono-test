@@ -1,5 +1,11 @@
 # one
 
+## 1.4.0
+
+### Minor Changes
+
+- aba6c48: update again lol
+
 ## 1.3.0
 
 ### Minor Changes
