@@ -1,5 +1,15 @@
 # one
 
+## 2.0.0
+
+### Major Changes
+
+- 965e540: asdf
+
+### Minor Changes
+
+- fe24785: fix one
+
 ## 1.4.0
 
 ### Minor Changes

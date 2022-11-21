@@ -1,5 +1,15 @@
 # two
 
+## 2.0.0
+
+### Major Changes
+
+- 965e540: asdf
+
+### Minor Changes
+
+- b9a0a73: fix
+
 ## 1.4.0
 
 ## 1.3.0

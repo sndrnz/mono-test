@@ -1,5 +1,0 @@
----
-"one": minor
----
-
-fix one
