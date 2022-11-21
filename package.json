@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo build"
+    "build": "turbo build",
+    "release": "turbo build && changeset publish"
   },
   "author": "",
   "license": "ISC",
