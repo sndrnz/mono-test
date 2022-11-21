@@ -1,5 +1,13 @@
 # two
 
+## 3.0.1
+
+### Patch Changes
+
+- bdc3120: eins
+  zwei
+  drei
+
 ## 3.0.0
 
 ### Minor Changes
