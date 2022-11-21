@@ -7,4 +7,7 @@ const x: string = "Hello from package one";
 // another new feature here
 // test lol 3
 // asdkfjaölsdkfjl
+// alsdkjfaödfaöldjföalskdf
+// asldkfjalkd
+// akdjflaksjdlf
 console.log(x);
